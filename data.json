@@ -1,0 +1,68 @@
+{
+  "events": [
+    {
+      "eventId": "1",
+      "eventName": "Community Cleanup",
+      "eventDate": "2023-11-15",
+      "eventLocation": "Central Park",
+      "volunteers": [
+        {
+          "volunteerId": "101",
+          "name": "John Doe",
+          "email": "john@example.com",
+          "role": "Team Leader"
+        },
+        {
+          "volunteerId": "102",
+          "name": "Jane Smith",
+          "email": "jane@example.com",
+          "role": "Logistics Coordinator"
+        }
+      ],
+      "participants": [
+        {
+          "participantId": "201",
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "participantId": "202",
+          "name": "Bob Brown",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "eventId": "2",
+      "eventName": "Tree Planting Day",
+      "eventDate": "2023-12-01",
+      "eventLocation": "Green Valley",
+      "volunteers": [
+        {
+          "volunteerId": "103",
+          "name": "Emily Davis",
+          "email": "emily@example.com",
+          "role": "Event Coordinator"
+        },
+        {
+          "volunteerId": "104",
+          "name": "Michael Wilson",
+          "email": "michael@example.com",
+          "role": "Volunteer Manager"
+        }
+      ],
+      "participants": [
+        {
+          "participantId": "203",
+          "name": "Charlie Green",
+          "email": "charlie@example.com"
+        },
+        {
+          "participantId": "204",
+          "name": "Diana White",
+          "email": "diana@example.com"
+        }
+      ]
+    }
+  ]
+}
